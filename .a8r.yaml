@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 713585b5-7acb-5f2c-a0e2-e4e7c7fa04ae
+    cluster_name: Hoang-Ngai's cluster
